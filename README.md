@@ -17,7 +17,7 @@ A minimal Spring Boot project demonstrating how to implement user authentication
 - Spring Boot
 - Spring Security
 - JWT (io.jsonwebtoken - JJWT)
-- MySQL (depending on your config)
+- MySQL
 - Maven
 
 ### 📪API Endpoints
